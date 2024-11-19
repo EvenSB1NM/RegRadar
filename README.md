@@ -26,13 +26,9 @@ Når importen er ferdig, kan du starte appen fra listen over apper.
 
 Krav
 For å bruke Regradar via PowerApps, må du ha:
-
-En aktiv Microsoft PowerApps-konto.
-
-Tilgang til Power Platform-administrasjon.
-
-Datakilder som SharePoint, OneDrive eller SQL konfigurert.
-
+1. En aktiv Microsoft PowerApps-konto.
+2. Tilgang til Power Platform-administrasjon.
+3. Datakilder som SharePoint, OneDrive eller SQL konfigurert.
 
 Kontakt
 For spørsmål eller forslag, kontakt oss:

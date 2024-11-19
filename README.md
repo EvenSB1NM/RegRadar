@@ -10,9 +10,10 @@ Regradar er en AI-drevet webapplikasjon som hjelper bedrifter med å identifiser
 *Brukervennlig grensesnitt: Enkel onboarding, personalisering og bruk.
 
 **Komme i gang**
-Last ned PowerApps-pakken
+
+1. Last ned PowerApps-pakken
    
-Klikk på følgende link for å laste ned PowerApps-pakken for Regradar: Last ned Regradar PowerApps (.zip)
+- Klikk på følgende link for å laste ned PowerApps-pakken for Regradar: Last ned Regradar PowerApps (.zip)
 
 Importer i PowerApps
 

@@ -21,8 +21,8 @@ Regradar er en AI-drevet webapplikasjon som hjelper bedrifter med å identifiser
    - Klikk på "Apps" i venstremenyen.
    - Velg "Import canvas app" øverst til høyre.
    - Klikk "Last opp" og velg den nedlastede regradar_powerapps.zip-filen.
-   - Følg instruksjonene for å tilpasse datakilder:
-**Sett opp forbindelser til dine systemer, som SharePoint, OneDrive eller en database (f.eks. SQL).**
+     **Følg instruksjonene for å tilpasse datakilder:**
+       - Sett opp forbindelser til dine systemer, som SharePoint, OneDrive eller en database (f.eks. SQL).
    - Klikk "Import" for å fullføre prosessen.
    - Når importen er ferdig, kan du starte appen fra listen over apper.
 

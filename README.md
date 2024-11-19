@@ -2,7 +2,7 @@
 RegRadar
 Regradar er en AI-drevet webapplikasjon som hjelper bedrifter med å identifisere, organisere og følge lover og reguleringer som GDPR, DORA, og andre bransjespesifikke krav. Ved å automatisere samsvarsarbeid, reduserer Regradar tidkrevende manuelle prosesser og gjør det enkelt for bedrifter å holde seg oppdatert på juridiske krav.
 
-Funksjoner
+#Funksjoner
 *Automatisk lovoversikt:
 *Identifiser lover og regler basert på bedriftens bransje og geografiske plassering.
 *AI-drevet dokumentanalyse: Finner og organiserer eksisterende samsvarsdokumenter i bedriftens systemer.
@@ -10,7 +10,7 @@ Funksjoner
 *Varsler om regelendringer: Hold deg oppdatert med nye lover eller oppdateringer i eksisterende regelverk.
 *Brukervennlig grensesnitt: Enkel onboarding, personalisering og bruk.
 
-Komme i gang
+#Komme i gang
 1. Last ned PowerApps-pakken
 Klikk på følgende link for å laste ned PowerApps-pakken for Regradar: Last ned Regradar PowerApps (.zip)
 
@@ -24,7 +24,7 @@ Sett opp forbindelser til dine systemer, som SharePoint, OneDrive eller en datab
 Klikk "Import" for å fullføre prosessen.
 Når importen er ferdig, kan du starte appen fra listen over apper.
 
-Krav
+#Krav
 For å bruke Regradar via PowerApps, må du ha:
 1. En aktiv Microsoft PowerApps-konto.
 2. Tilgang til Power Platform-administrasjon.

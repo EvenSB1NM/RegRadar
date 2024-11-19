@@ -33,6 +33,5 @@ For å bruke Regradar via PowerApps, må du ha:
 Kontakt
 For spørsmål eller forslag, kontakt oss:
 
-E-post: support@regradar.no
-
-Nettside: www.regradar.no
+- E-post: support@regradar.no
+- Nettside: www.regradar.no

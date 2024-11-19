@@ -8,3 +8,13 @@ AI-drevet dokumentanalyse: Finner og organiserer eksisterende samsvarsdokumenter
 Interaktive rapporter: Generer samsvarsrapporter som kan brukes ved revisjoner eller tilsyn.
 Varsler om regelendringer: Hold deg oppdatert med nye lover eller oppdateringer i eksisterende regelverk.
 Brukervennlig grensesnitt: Enkel onboarding, personalisering og bruk.
+
+
+
+
+
+Kontakt
+For spørsmål eller forslag, kontakt oss:
+
+E-post: support@regradar.no
+Nettside: www.regradar.no
